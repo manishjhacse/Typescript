@@ -10,7 +10,7 @@ const login = (name: string, email: string, isAdmin: boolean = false) => {
 login("manish", "jhamanish.cse25@gmail.com", true);
 login("manish", "jhamanish.cse25@gmail.com");
 function addTwo(val: number) {
-  // return val+2;
+  // return val+2; 
   return "not number";
 }
 
